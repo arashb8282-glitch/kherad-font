@@ -1,0 +1,8 @@
+{
+  "name": "Kherad Font Specimen & Playground",
+  "description": "Interactive typeface specimen, Persian typography tester, and glyph inspector for the Kherad (Abar Mid FaNum) font family.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
